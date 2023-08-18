@@ -1,0 +1,10 @@
+The person is wearing necklace. She has wavy hair.
+She is wearing lipstick. She has wavy hair. She is attractive.
+This woman has big lips, and wavy hair. She is wearing necklace.
+The person wears lipstick. She has big lips.
+The person has wavy hair, and big lips and wears lipstick. She is attractive.
+The person is attractive and has big lips. 
+The woman has wavy hair, and big lips and wears lipstick.
+The woman has big lips, and blond hair. She is wearing necklace. She is attractive.
+This woman has blond hair and is wearing necklace. She is attractive.
+This woman has blond hair, and big lips. She is young. She wears necklace.

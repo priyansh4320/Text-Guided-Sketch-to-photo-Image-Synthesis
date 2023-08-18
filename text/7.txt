@@ -1,0 +1,10 @@
+This person is young and has brown hair. 
+This woman has big lips. She is wearing necklace, and heavy makeup. She is young.
+The person has big lips. She wears earrings.
+This woman has big lips. She is young and wears necklace.
+She wears earrings. She has brown hair. She is young.
+The person has brown hair. She is wearing heavy makeup.
+This person has big lips. She is wearing earrings.
+She is wearing necklace. She has big lips.
+The woman has brown hair and is wearing heavy makeup, and necklace.
+This woman is wearing earrings, heavy makeup. She has big lips.
