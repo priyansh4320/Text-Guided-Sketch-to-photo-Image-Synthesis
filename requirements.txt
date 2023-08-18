@@ -1,0 +1,7 @@
+torch>=1.8.0
+torchvision>=0.9.0
+numpy>=1.19.0
+scipy>=1.6.0
+pandas>=1.3.0
+matplotlib>=3.4.2
+ctgan>=0.1.3

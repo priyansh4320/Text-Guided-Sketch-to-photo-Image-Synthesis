@@ -1,0 +1,10 @@
+The woman has big nose. She wears earrings. She is attractive.
+The person has big nose and wears lipstick.
+The person has big nose. She is young. She wears earrings.
+The woman has big nose. She is young and wears earrings.
+This person is attractive and has big nose. 
+This person wears earrings. She has big nose. She is young.
+This person wears earrings. She has big nose.
+This person is wearing earrings. She has big nose.
+This woman has big nose. She is attractive and wears earrings.
+The person is wearing earrings. She has big nose. She is attractive.

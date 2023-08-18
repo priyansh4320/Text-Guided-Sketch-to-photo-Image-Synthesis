@@ -1,0 +1,10 @@
+The woman has blond hair and wears necklace. She is young.
+This person wears heavy makeup. She has blond hair.
+This woman has blond hair. She is wearing lipstick, earrings, and necklace.
+This person has blond hair and is wearing necklace, and heavy makeup. She is young.
+This person has blond hair. She is young and wears necklace, heavy makeup, and earrings.
+She wears lipstick. She has blond hair. She is young.
+This woman is young and has blond hair. 
+This person is wearing earrings, lipstick, necklace. She has blond hair. She is young.
+This person has blond hair. She wears necklace, earrings, and heavy makeup.
+The woman has blond hair. She wears necklace, lipstick, and earrings. She is young.
