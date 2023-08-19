@@ -14,9 +14,10 @@ class preprocess_data:
         texts = []
         
         for  text_file in txt_folder:
-            texts.append(np.loadtxt(os.path.join(folder_path,text_file)))   
+            file = open(os.path.join(folder_path,text_file),'r')
+            texts.append(" ".join(file.readlines()))   
         
-        return np.concatenate(texts)
+        return np.asarray(texts)
 #end of class-----------------------------------------------------------------------------------------
 
 
@@ -24,5 +25,6 @@ if __name__ == '__main__':
     folder_path = 'clone\Text-Guided-Sketch-to-photo-Image-Synthesis\Text'
     obj = preprocess_data()
     text_arr = obj.read_text_file(folder_path)
-    print(text_arr)
+    print(type(text_arr))
+
     pass
