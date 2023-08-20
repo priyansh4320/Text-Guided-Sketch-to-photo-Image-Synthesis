@@ -18,6 +18,17 @@ class preprocess_data:
             texts.append(" ".join(file.readlines()))   
         
         return np.asarray(texts)
+    
+    def remove_punc(self,text_arr):
+        punc = ",.?/;:'[{]()}"""
+        res_arr = []
+        for text in text_arr:
+            text = "".join([i for i in text if i not in punc])
+            res_arr.append(" ".join(text.split('\n')))
+        return np.asarray(res_arr)
+
+    def tokenize_and_extract_word_embeddings(self,text_arr):
+        return
 #end of class-----------------------------------------------------------------------------------------
 
 
@@ -25,6 +36,9 @@ if __name__ == '__main__':
     folder_path = 'clone\Text-Guided-Sketch-to-photo-Image-Synthesis\Text'
     obj = preprocess_data()
     text_arr = obj.read_text_file(folder_path)
-    print(type(text_arr))
+    text = obj.remove_punc(text_arr[0:3])
+
+
+    print(text_arr[0:3],'\n',text)
 
     pass
